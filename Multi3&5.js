@@ -21,4 +21,4 @@ const multiSum = num => {
     return sum
 };
 
-console.log(multiSum(10));// => 23
+console.log(multiSum(1000));// => 23
